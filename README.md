@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭 Currently working on: Personal Portfolio and AI Projects
-- Currently learning: Python, Machine Learning 
+- Currently learning: Python, DSA and Machine Learning 
 <!-- - 📫 Reach me at: [milindchavan525@gmail.com](mailto:milindchavan525@gmail.com) -->
 
 ### Connect with me:
