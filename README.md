@@ -103,17 +103,18 @@ class MilindChavan:
 
 ## 🛠️ Tech Stack
 
-### 👨🏻‍💻 Programming
+### 🐍 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI ML"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
 </p>
 
 ### 📊 Data Science
@@ -124,24 +125,32 @@ class MilindChavan:
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 </p>
 
-### 🌐 Development
+### 💬 NLP
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,html,css" alt="Development"/>
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/TF--IDF-NLP-blue?style=for-the-badge" alt="TF-IDF"/>
+  <img src="https://img.shields.io/badge/Word2Vec-NLP-purple?style=for-the-badge" alt="Word2Vec"/>
 </p>
 
-### 🗄️ Databases
+### 🌐 Web Development & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" alt="Django Flask FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
 </p>
 
 ### ⚙️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,linux" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" alt="Git GitHub VS Code Jupyter Linux"/>
 </p>
-
 ---
 
 # 🚀 Featured Projects
