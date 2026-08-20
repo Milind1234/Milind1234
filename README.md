@@ -2,238 +2,295 @@
 
 # 👋🏻 Hi, I'm Milind Chavan
 
-### 🤖 AI/ML Enthusiast | Aspiring Machine Learning Engineer | CSE (AI & ML)
+### 🤖 AI/ML Enthusiast • Aspiring Machine Learning Engineer • Builder
 
 <p>
   <a href="https://github.com/Milind1234">
-    <img src="https://img.shields.io/github/followers/Milind1234?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/badge/GitHub-Milind1234-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Milind1234&label=Profile%20Views&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
   <a href="https://www.linkedin.com/in/milind-chavan-47a250214">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Milind1234&label=Profile%20Views&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Machine+Learning+Enthusiast+%F0%9F%A4%96;AI+%7C+Data+Science+%7C+Deep+Learning;Building+End-to-End+ML+Projects+%F0%9F%9A%80;Turning+Data+into+Intelligent+Solutions+%F0%9F%A7%A0;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing SVG"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+Machine+Learning+Systems+%F0%9F%A4%96;Exploring+Deep+Learning+%26+NLP+%F0%9F%A7%A0;Turning+Data+into+Intelligent+Solutions+%F0%9F%9A%80;Learning+%7C+Building+%7C+Debugging+%7C+Improving+%F0%9F%94%A5"
+  alt="Typing Animation"
+/>
+
+<br>
+
+> **"Build it. Break it. Understand it. Improve it."**
 
 </div>
 
 ---
 
-## 🧑🏻‍💻 About Me
+# 🧑🏻‍💻 About Me
 
-I'm **Milind Chavan**, a Computer Science & Engineering Graduate specializing in **Artificial Intelligence & Machine Learning**.
+I'm **Milind Chavan**, a Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**.
 
-I enjoy building practical AI/ML systems and working across the complete machine learning lifecycle:
+I'm passionate about building practical AI/ML applications and understanding the complete journey of a machine learning solution — from raw data to a deployed model.
 
-**Data → Preprocessing → Feature Engineering → Model Training → Evaluation → Deployment**
-
-My goal is to become a strong **Machine Learning / AI Engineer** by continuously strengthening my skills in Machine Learning, Deep Learning, NLP, Python, SQL, DSA and ML deployment.
-
-```python
-class MilindChavan:
-
-    role = "Aspiring AI/ML Engineer"
-
-    interests = [
-        "Machine Learning",
-        "Deep Learning",
-        "Natural Language Processing",
-        "Data Science",
-        "AI Applications",
-        "ML Deployment"
-    ]
-
-    currently_learning = [
-        "Python",
-        "DSA",
-        "Machine Learning",
-        "Deep Learning",
-        "NLP",
-        "MLOps"
-    ]
-
-    goal = "Build intelligent systems that solve real-world problems 🚀"
+```text
+Data
+  ↓
+Exploration
+  ↓
+Preprocessing
+  ↓
+Feature Engineering
+  ↓
+Model Training
+  ↓
+Evaluation
+  ↓
+Deployment
 ```
 
----
-
-## 🎯 Current Focus
-
-- 🤖 Building **end-to-end Machine Learning projects**
-- 🧠 Strengthening **Deep Learning & NLP**
-- 🐍 Improving **Python programming & problem solving**
-- 📊 Developing stronger **Data Science & model evaluation skills**
-- 🧩 Practicing **DSA**
-- 🚀 Learning **ML model deployment**
-- 🐳 Exploring **Docker & MLOps**
-- ☁️ Exploring **cloud technologies**
+🎯 **My goal:** Become a strong **AI/ML Engineer** capable of building reliable, scalable and useful machine learning systems.
 
 ---
 
-## 🧠 AI / ML Skills
+# 🚀 What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 Machine Learning
 
-`Regression` • `Classification` • `Ensemble Learning`
+Building and experimenting with end-to-end ML projects involving:
 
-`Feature Engineering` • `Feature Scaling` • `Hyperparameter Tuning`
+- Classification
+- Regression
+- Ensemble Learning
+- Feature Engineering
+- Hyperparameter Tuning
+- Model Evaluation
 
-`Cross Validation` • `Model Evaluation` • `Pipelines`
+</td>
 
-`Preprocessing` • `Model Serialization`
+<td width="50%">
 
 ### 🧠 Deep Learning
 
-`Artificial Neural Networks` • `TensorFlow` • `Keras`
+Strengthening my understanding of:
 
-`Hyperparameter Optimization` • `Regularization`
+- Artificial Neural Networks
+- Regularization
+- Dropout
+- Early Stopping
+- Hyperparameter Optimization
+- TensorFlow & Keras
 
-`Dropout` • `Early Stopping` • `Model Evaluation`
+</td>
+</tr>
 
-### 💬 Natural Language Processing
-
-`Text Preprocessing` • `Tokenization` • `Stemming`
-
-`Lemmatization` • `TF-IDF` • `Word Embeddings`
-
-`Word2Vec` • `Sentiment Analysis` • `Text Classification`
-
----
-
-# 🛠️ Tech Stack
-
-### 🐍 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-</p>
-
-### 📊 Data Science
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
-</p>
+<tr>
+<td width="50%">
 
 ### 💬 NLP
 
+Exploring:
+
+- Text Preprocessing
+- Tokenization
+- Stemming
+- Lemmatization
+- TF-IDF
+- Word2Vec
+- Text Classification
+
+</td>
+
+<td width="50%">
+
+### 🚀 ML Engineering
+
+Learning how to move models beyond notebooks through:
+
+- Flask
+- Django
+- FastAPI
+- Docker
+- Model Serialization
+- Deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 AI / ML Knowledge
+
+<div align="center">
+
+| 🤖 Machine Learning | 🧠 Deep Learning | 💬 NLP |
+|:---:|:---:|:---:|
+| Regression | ANN | Text Preprocessing |
+| Classification | Regularization | Tokenization |
+| Ensemble Learning | Dropout | Stemming |
+| Feature Engineering | Early Stopping | Lemmatization |
+| Feature Scaling | Hyperparameter Tuning | TF-IDF |
+| Cross Validation | Model Evaluation | Word2Vec |
+| Model Evaluation | TensorFlow | Text Classification |
+| Pipelines | Keras | Sentiment Analysis |
+
+</div>
+
+---
+
+# 🛠️ Technology Stack
+
+## 🐍 Programming
+
 <p>
-  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge" alt="NLTK"/>
-  <img src="https://img.shields.io/badge/TF--IDF-Text%20Features-5C6BC0?style=for-the-badge" alt="TF-IDF"/>
-  <img src="https://img.shields.io/badge/Word2Vec-Embeddings-8E44AD?style=for-the-badge" alt="Word2Vec"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-### 🌐 Web Development & Deployment
+## 🤖 Machine Learning & Deep Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
 </p>
 
-### 🗄️ Database
+## 📊 Data Science
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 </p>
 
-### ⚙️ Tools
+## 💬 Natural Language Processing
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge" alt="NLTK"/>
+<img src="https://img.shields.io/badge/TF--IDF-Text%20Features-5C6BC0?style=for-the-badge" alt="TF-IDF"/>
+<img src="https://img.shields.io/badge/Word2Vec-Embeddings-8E44AD?style=for-the-badge" alt="Word2Vec"/>
+</p>
+
+## 🌐 Web & Deployment
+
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+## 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+## ⚙️ Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌱 Crop Recommendation System
+<div align="center">
 
-### Machine Learning + IoT based agricultural recommendation system
+### 🌱 Crop Recommendation System
 
-An intelligent agricultural system that recommends suitable crops using soil and environmental parameters.
+**AI + IoT powered agricultural recommendation system**
 
-**Key Features**
+</div>
 
-- 🌾 Crop recommendation using Machine Learning
-- 🌡️ Temperature & humidity monitoring
-- 🌧️ Rainfall analysis
-- 🧪 Soil NPK & pH parameters
-- 🔌 IoT sensor integration
-- 🤖 ML-based prediction
-- 🌐 Web-based application
+A machine learning-based system designed to recommend suitable crops using soil and environmental conditions.
 
-**Tech Stack**
+**What it does**
+
+- 🌾 Predicts suitable crops
+- 🧪 Uses NPK and soil pH
+- 🌡️ Uses temperature and humidity
+- 🌧️ Considers rainfall
+- 🔌 Integrates IoT sensor data
+- 🌐 Provides a web-based interface
+
+**Technologies**
 
 `Python` `Machine Learning` `IoT` `Arduino` `PHP` `MySQL`
 
 ---
 
-## 🎵 Music Genre Classification
+<div align="center">
 
-### Machine Learning based music classification system
+### 🎵 Music Genre Classification
 
-A Machine Learning project that analyzes audio features and predicts the genre of music.
+**Machine Learning based audio classification project**
 
-**Key Features**
+</div>
 
-- 🎧 Audio feature extraction
+A machine learning system that uses extracted audio features to classify music into different genres.
+
+**Highlights**
+
+- 🎧 Audio feature analysis
 - 📊 Exploratory Data Analysis
 - 🧹 Data preprocessing
 - ⚙️ Feature engineering
-- 🤖 Multiple Machine Learning algorithms
+- 🤖 Machine Learning models
 - 🔎 Cross-validation
 - 📈 Model evaluation
-- 📝 Research publication
+- 📄 Research publication
 
-**Tech Stack**
+**Technologies**
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
 
 ---
 
-## 🏥 Healthcare Chatbot
+<div align="center">
 
-### AI-powered healthcare assistance application
+### 🏥 Healthcare Chatbot
 
-A chatbot application designed to provide users with an interactive healthcare assistance experience.
+**NLP-based healthcare assistance application**
 
-**Key Features**
+</div>
+
+An AI-powered chatbot application focused on natural-language interaction and healthcare assistance.
+
+**Highlights**
 
 - 💬 Natural-language interaction
-- 🧠 NLP-based processing
+- 🧠 NLP processing
 - 🤖 Intelligent responses
-- 🌐 Web-based interface
+- 🌐 Web-based application
 
-**Tech Stack**
+**Technologies**
 
 `Python` `NLP` `Machine Learning` `Django`
 
 ---
 
-## 💳 Customer Churn Prediction
+<div align="center">
 
-### End-to-end Deep Learning project
+### 💳 Customer Churn Prediction
 
-A Deep Learning based system designed to predict customer churn.
+**End-to-end Deep Learning application**
 
-**Key Features**
+</div>
+
+A Deep Learning project designed to predict whether a customer is likely to churn.
+
+**Highlights**
 
 - 📊 Data preprocessing
 - 🧹 Feature engineering
@@ -242,79 +299,160 @@ A Deep Learning based system designed to predict customer churn.
 - 📈 Model evaluation
 - 🚀 Flask deployment
 - 💾 Model serialization
-- 🔧 Reusable preprocessing artifacts
 
-**Tech Stack**
+**Technologies**
 
 `Python` `TensorFlow` `Keras` `Scikit-learn` `Flask`
 
 ---
 
-## 📚 Currently Learning
+# 🧩 My ML Engineering Workflow
+
+<div align="center">
 
 ```text
-Python
- ├── Advanced Python
- ├── OOP
- ├── Data Structures
- └── Problem Solving
-
-Machine Learning
- ├── Feature Engineering
- ├── Ensemble Learning
- ├── Hyperparameter Tuning
- └── Model Deployment
-
-Deep Learning
- ├── ANN
- ├── CNN
- ├── RNN
- └── Transformers
-
-NLP
- ├── Text Classification
- ├── Word Embeddings
- └── Transformers
-
-MLOps
- ├── Docker
- ├── FastAPI
- └── Cloud
+                ┌─────────────────────┐
+                │    REAL PROBLEM     │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │     DATA COLLECT    │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │    DATA ANALYSIS    │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │   PREPROCESSING     │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ FEATURE ENGINEERING │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │   MODEL TRAINING    │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ MODEL EVALUATION    │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │     DEPLOYMENT      │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │   MONITOR & IMPROVE │
+                └─────────────────────┘
 ```
+
+</div>
 
 ---
 
-## 📈 My Learning Journey
+# 📚 Currently Learning
 
-```text
-Python
-   ↓
-Data Analysis
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-NLP
-   ↓
-ML Deployment
-   ↓
-MLOps
-   ↓
-AI / ML Engineer 🚀
-```
+<table>
+<tr>
+<td width="50%">
 
-> Building projects, breaking things, debugging them, learning from them — and repeating. 🔥
+### 🐍 Python
+
+- Advanced Python
+- Object-Oriented Programming
+- Data Structures
+- Problem Solving
+- Clean & Modular Code
+
+</td>
+
+<td width="50%">
+
+### 🧠 Machine Learning
+
+- Advanced ML algorithms
+- Feature Engineering
+- Ensemble Methods
+- Hyperparameter Optimization
+- Model Deployment
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧬 Deep Learning
+
+- ANN
+- CNN
+- RNN
+- Transformers
+- Model Optimization
+
+</td>
+
+<td width="50%">
+
+### ⚙️ ML Engineering
+
+- Docker
+- FastAPI
+- Deployment
+- MLOps
+- Cloud Technologies
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 Certifications & Learning
+# 🗺️ My Learning Roadmap
 
-- 🐍 **Cisco — Python**
-- 🤖 **NVIDIA Deep Learning Institute**
-- 🗄️ **IBM — SQL**
-- 🌐 **Cisco — Introduction to Networks**
-- 📚 Continuous learning in **AI/ML & Data Science**
+```text
+                         ┌───────────────┐
+                         │    Python     │
+                         └───────┬───────┘
+                                 ↓
+                       ┌──────────────────┐
+                       │  Data Analysis   │
+                       └────────┬─────────┘
+                                ↓
+                       ┌──────────────────┐
+                       │ Machine Learning │
+                       └────────┬─────────┘
+                                ↓
+                       ┌──────────────────┐
+                       │ Deep Learning    │
+                       └────────┬─────────┘
+                                ↓
+                       ┌──────────────────┐
+                       │      NLP         │
+                       └────────┬─────────┘
+                                ↓
+                       ┌──────────────────┐
+                       │ ML Deployment    │
+                       └────────┬─────────┘
+                                ↓
+                       ┌──────────────────┐
+                       │     MLOps        │
+                       └────────┬─────────┘
+                                ↓
+                     ┌──────────────────────┐
+                     │   AI / ML Engineer   │
+                     └──────────────────────┘
+```
 
 ---
 
@@ -324,59 +462,34 @@ AI / ML Engineer 🚀
 
 Research work on **Music Genre Classification using Machine Learning**, published in **JECRA Journal**.
 
-### 🔬 Research Focus
+### 🔬 Research Pipeline
 
-`Audio Features`
-
-↓
-
-`Feature Engineering`
-
-↓
-
-`Machine Learning`
-
-↓
-
-`Classification`
-
-↓
-
-`Model Evaluation`
+```text
+Audio Data
+    ↓
+Feature Extraction
+    ↓
+Feature Analysis
+    ↓
+Preprocessing
+    ↓
+Machine Learning
+    ↓
+Classification
+    ↓
+Model Evaluation
+```
 
 ---
 
-# 💡 How I Build ML Projects
+# 🏆 Certifications & Learning
 
-```text
-             ┌──────────────────────┐
-             │     REAL PROBLEM     │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │    COLLECT DATA      │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │ CLEAN & PREPROCESS   │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │  FEATURE ENGINEERING │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │  TRAIN ML / DL MODEL │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │   EVALUATE MODEL     │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │      DEPLOY 🚀       │
-             └──────────────────────┘
-```
+| Certification / Program | Area |
+|---|---|
+| 🐍 Cisco Python | Python Programming |
+| 🤖 NVIDIA Deep Learning Institute | Deep Learning |
+| 🗄️ IBM SQL | SQL & Databases |
+| 🌐 Cisco Introduction to Networks | Networking |
 
 ---
 
@@ -386,23 +499,25 @@ Research work on **Music Genre Classification using Machine Learning**, publishe
 
 ### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Milind1234&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Milind1234&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 <br><br>
 
-### 📈 Recent Contribution Activity
+### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Milind1234&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Milind1234&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 
@@ -410,19 +525,21 @@ Research work on **Music Genre Classification using Machine Learning**, publishe
 
 I'm interested in collaborating on:
 
-- 🤖 Machine Learning projects
-- 🧠 Deep Learning applications
-- 💬 NLP projects
-- 📊 Data Science projects
-- 🌱 AI + IoT projects
-- 🚀 Open-source projects
-- 💡 Innovative AI applications
+```text
+🤖 Machine Learning
+🧠 Deep Learning
+💬 Natural Language Processing
+📊 Data Science
+🌱 AI + IoT
+🚀 Open Source
+💡 AI-powered Applications
+```
 
 ---
 
 # 💬 Ask Me About
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge"/>
@@ -436,17 +553,42 @@ I'm interested in collaborating on:
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Fun Facts
+# ⚡ A Little About Me
 
-- 🧠 I enjoy understanding **how ML models work under the hood**
-- 🐛 I consider **debugging part of learning**
-- 📊 I enjoy turning messy datasets into useful insights
-- 🚀 I believe the best way to learn AI is by **building projects**
-- ☕ Code + debugging + coffee = productivity
+```python
+milind = {
+    "role": "Aspiring AI/ML Engineer",
+
+    "passionate_about": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "Data Science"
+    ],
+
+    "love_to_build": [
+        "ML Applications",
+        "AI-powered Web Applications",
+        "Data-driven Solutions",
+        "End-to-End ML Systems"
+    ],
+
+    "mindset": "Learn → Build → Debug → Improve → Repeat 🚀"
+}
+```
+
+---
+
+# 🌟 What Drives Me
+
+> **I don't just want to train models.**
+>
+> I want to understand the problem, work with the data, build the model, evaluate it properly, deploy it, and continuously improve it.
 
 ---
 
@@ -455,11 +597,11 @@ I'm interested in collaborating on:
 <div align="center">
 
 <a href="https://github.com/Milind1234">
-  <img src="https://img.shields.io/badge/GitHub-Milind1234-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Milind1234-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/milind-chavan-47a250214">
-  <img src="https://img.shields.io/badge/LinkedIn-Milind%20Chavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Milind%20Chavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -468,12 +610,12 @@ I'm interested in collaborating on:
 
 <div align="center">
 
-### 🚀 Learning Today. Building Tomorrow. Creating with AI.
+## 🚀 Learn. Build. Deploy. Repeat.
 
-⭐ **If you find my projects interesting, consider giving them a star!**
+### 🤖 Turning curiosity into intelligent solutions.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Milind1234&label=Thanks%20for%20visiting!&color=7C3AED&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Milind1234&label=Thanks%20for%20visiting!&color=7C3AED&style=flat-square" alt="Thanks for visiting"/>
 
 </div>
