@@ -105,7 +105,7 @@ class MilindChavan:
 ### 🐍 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -119,7 +119,8 @@ class MilindChavan:
 ### 📊 Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" alt="NumPy Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 </p>
@@ -128,29 +129,34 @@ class MilindChavan:
 
 <p>
   <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge" alt="NLTK"/>
-  <img src="https://img.shields.io/badge/TF--IDF-NLP-blue?style=for-the-badge" alt="TF-IDF"/>
-  <img src="https://img.shields.io/badge/Word2Vec-NLP-purple?style=for-the-badge" alt="Word2Vec"/>
+  <img src="https://img.shields.io/badge/TF--IDF-Text%20Features-5C6BC0?style=for-the-badge" alt="TF-IDF"/>
+  <img src="https://img.shields.io/badge/Word2Vec-Embeddings-8E44AD?style=for-the-badge" alt="Word2Vec"/>
 </p>
 
 ### 🌐 Web Development & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" alt="Django Flask FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 ### ⚙️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" alt="Git GitHub VS Code Jupyter Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
-
 ---
 
 # 🚀 Featured Projects
