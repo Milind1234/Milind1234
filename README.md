@@ -100,7 +100,6 @@ class MilindChavan:
 `Sentiment Analysis` • `Text Classification`
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 🐍 Programming
@@ -151,6 +150,7 @@ class MilindChavan:
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" alt="Git GitHub VS Code Jupyter Linux"/>
 </p>
+
 ---
 
 # 🚀 Featured Projects
