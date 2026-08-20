@@ -29,7 +29,7 @@
 
 # 🧑🏻‍💻 About Me
 
-I'm **Milind Chavan**, a Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**.
+I'm **Milind Chavan**, a Computer Science & Engineering Graduate specializing in **Artificial Intelligence & Machine Learning**.
 
 I'm passionate about building practical AI/ML applications and understanding the complete journey of a machine learning solution — from raw data to a deployed model.
 
